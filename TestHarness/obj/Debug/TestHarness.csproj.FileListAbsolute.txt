@@ -1,0 +1,9 @@
+C:\Users\Javier Arias\source\repos\SpriteEngine\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\Javier Arias\source\repos\SpriteEngine\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\Javier Arias\source\repos\SpriteEngine\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\Javier Arias\source\repos\SpriteEngine\TestHarness\obj\Debug\TestHarness.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\SpriteEngine\TestHarness\obj\Debug\TestHarness.Properties.Resources.resources
+C:\Users\Javier Arias\source\repos\SpriteEngine\TestHarness\obj\Debug\TestHarness.csproj.GenerateResource.cache
+C:\Users\Javier Arias\source\repos\SpriteEngine\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\Javier Arias\source\repos\SpriteEngine\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\Javier Arias\source\repos\SpriteEngine\TestHarness\obj\Debug\TestHarness.Form1.resources
